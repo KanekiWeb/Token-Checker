@@ -9,51 +9,51 @@
 
 ---
 
-**FR:** A but éducatif seulement.  
-**EN:** For educational purposes only. 
+**FR:** A but éducatif seulement.    
+**EN:** For educational purposes only.   
 
 
 
-### ❓ Informations
+## ❓ Informations
 
-__Fr__: **Token Checker** est un tool en ligne open source qui permet de check des tokens discords rapidement, je rappelle que cela est faits dans un but éducatif seulement, si vous avez besoin d'aide vous pouvez me contacter sur le discord ci-dessous.
+__Fr__: **Token Checker** est un tool en ligne open source qui permet de check des tokens discords rapidement, je rappelle que cela est faits dans un but éducatif seulement, si vous avez besoin d'aide vous pouvez me contacter sur le discord ci-dessous.  
 
-__En__: **Token Checker** is an open source online tool that allows to check discords tokens quickly, I remind that this is made for educational purpose only, if you need help you can contact me on the discord below.
-
-
-
-## 💻 Features
+__En__: **Token Checker** is an open source online tool that allows to check discords tokens quickly, I remind that this is made for educational purpose only, if you need help you can contact me on the discord below.  
+  
+  
+  
+## 💻 Features  
 
 > - Fast Checker 
 >
 > - No Download
-
-
-
+ 
+  
+  
 ## 📷 Demo  
 
-![Demo Image](https://raw.githubusercontent.com/KanekiWeb/Token-Checker/main/demo.png)
+![Demo Image](https://raw.githubusercontent.com/KanekiWeb/Token-Checker/main/demo.png)  
+ 
+   
+  
+  
+  
+##  📝 Contact  
+Mail : _kaneki_pro@protonmail.com_ <br>  
+Discord : `Kaneki Web#8888`  
+  
+  
+  
+  
+  
 
-
-
-
-
-##  📝 Contact
-Mail : _kaneki_pro@protonmail.com_ <br>
-Discord : `Kaneki Web#8888`
-
-
-
-
-
-
-## 📚 Contributions
-All suggestions are welcome.
-
-
-
-
-
+## 📚 Contributions  
+All suggestions are welcome.  
+    
+   
+    
+   
+  
 ### 📜 License
 Token Checker is under licensed MIT [MIT License](https://github.com/KanekiWeb/Token-Checker/blob/master/LICENSE).
 
