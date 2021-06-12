@@ -32,7 +32,7 @@ __En__: **Token Checker** is an open source online tool that allows to check dis
 
 ## 📷 Demo  
 
-![Demo Image](https://raw.githubusercontent.com/KanekiX2/Token-Checker/main/demo.png)
+![Demo Image](https://raw.githubusercontent.com/KanekiWeb/Token-Checker/main/demo.png)
 
 
 
