@@ -23,15 +23,12 @@ __En__: **Token Checker** is an open source online tool that allows to check dis
   
   
 ## 💻 Features  
-
 > - Fast Checker 
->
 > - No Download
  
   
   
 ## 📷 Demo  
-
 ![Demo Image](https://raw.githubusercontent.com/KanekiWeb/Token-Checker/main/demo.png)  
  
    
@@ -39,7 +36,7 @@ __En__: **Token Checker** is an open source online tool that allows to check dis
   
   
 ##  📝 Contact  
-Mail : _kaneki_pro@protonmail.com_ <br>  
+Mail : _kaneki_pro@protonmail.com_
 Discord : `Kaneki Web#8888`  
   
   
