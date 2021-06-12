@@ -54,6 +54,5 @@ All suggestions are welcome.
 ### 📜 License
 Token Checker is under licensed MIT [MIT License](https://github.com/KanekiWeb/Token-Checker/blob/master/LICENSE).
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
