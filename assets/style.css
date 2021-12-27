@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1a1919;
+    font-family: "Poppins", sans-serif;
+}
+
+header, ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 0;
+}
+
+header {
+    background-color: #202020c9;
+    box-shadow: 0 0 20px 0 #6246ea;
+}
+
+header ul li {
+    list-style-type: none;
+}
+
+header ul li:not(:nth-child(3)) {
+    margin-right: 30px;
+}
+
+header ul li a:hover {
+    transition: 0.3s all;
+    background-color: #494848d5;
+}
+
+header ul li a {
+    color: #ccc;
+    outline: none;
+    text-decoration: none;
+    transition: 0.3s all;
+    padding: 13px 20px;
+    border-radius: 5px;
+}
+
+section.input_tokens .center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 70vh;
+}
+
+section.input_tokens .center textarea {
+    border: 1px solid #6246ea;
+    outline: none;
+    text-decoration: none;
+    margin-bottom: 30px;
+    background-color: #1a1919;
+    color: white;
+    padding: 20px;
+    border-radius: 3px;
+    transition: 0.5s all;
+    resize: none;
+    max-width: 700px;
+    width: 90%;
+    height: 300px;
+}
+
+section.input_tokens .center button {
+    background-color: #6246ea;
+    border-style: none;
+    color: #fffffe;
+    padding: 10px 40px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s all;
+}
+
+section.input_tokens .center button:hover {
+    transition: 0.3s all;
+    background-color: #442eb3;
+}
+
+/* Results */
+
+section.results {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 5vh;
+    width: 100%;
+    color: white;
+}
+
+section.results .result-box .box-title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+
+section.results .result-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 5vh 0;
+}
+
+section.results .result-box hr {
+    width: 110px;
+    margin: 10px auto 30px auto;
+}
+
+section.results .result-box .account {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+    
+    background-color: #2c2c2c;
+    padding: 18px 18px 10px 18px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+section.results .result-box .account img {
+    width: 100px;
+    border-radius: 50%;
+    border: 7px solid #202020;
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+
+section.results .result-box .account span {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+section.results .result-box .account p {
+    font-size: 14px;
+    color: rgb(143, 142, 142);
+}
+
+.hide {
+    display: none;
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Token Checker V2</title>
+
+    <!-- Css -->
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+    <header>
+        <ul>
+            <li><a target="_blank" href="https://github.com/KanekiWeb">Github</a></li>
+            <li><a target="_blank" href="https://kanekiweb.tk/discord">Discord</a></li>
+            <li><a target="_blank" href="https://kanekiweb.tk">Website</a></li>
+        </ul>
+    </header>
+
+    <section id="tokens_list" class="input_tokens">
+        <div class="center">
+            <textarea name="tokens" id="tokens" cols="30" rows="10" placeholder="Enter Your Tokens Here..."></textarea>
+            <button onclick="CheckTokens()">Check Token</button>
+        </div>
+    </section>
+
+    <section id="results" class="hide">
+        <div class="result-box locked">
+            <div class="box-title">
+                <span>Locked Accounts</span>
+                <hr>
+            </div>
+            <div id="locked_tokens">
+                
+            </div>
+        </div>
+        <div class="result-box working">
+            <div class="box-title">
+                <span>Working Accounts</span>
+                <hr>
+            </div>
+            <div id="valid_tokens">
+
+            </div>
+        </div>
+        <div class="result-box bads">
+            <div class="box-title">
+                <span>Invalid Accounts</span>
+                <hr>
+            </div>
+            <div id="invalid_tokens">
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- Javascript -->
+    <script src="assets/app.js"></script>    
+</body>
+</html>
