@@ -10,10 +10,10 @@ function CheckTokens() {
         if(token.length == 59 || token.length == 88)
         {
             let xhr = new XMLHttpRequest();
-            xhr.open('GET', 'https://discordapp.com/api/v9/guild-events', true);
+            xhr.open('GET', 'https://discord.com/api/v9/users/@me/outbound-promotions/codes', true);
             xhr.setRequestHeader('Authorization', `${token}`)
             xhr.onload = function () {
-                if (xhr.status == 401) {
+                if (xhr.status == 403) {
                     document.getElementById("invalid_tokens").innerHTML += 
                     `<div class="account">
                         <div class="box">
